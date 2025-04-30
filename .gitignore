@@ -1,0 +1,49 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory
+coverage/
+
+# Production build
+dist/
+build/
+
+# dotenv environment variables
+.env
+.env.*.local
+
+# IDE/editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache
+.npm/
+
+# Optional yarn cache
+.yarn/
+.pnp.*  # for Yarn Plug'n'Play
+
+# TypeScript output
+*.tsbuildinfo
+
+# Docker
+docker-compose.override.yml
