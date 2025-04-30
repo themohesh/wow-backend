@@ -33,7 +33,7 @@ A Node.js/Express backend for a job matching platform using AI-powered matching 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/job-match-backend.git
+git clone https://github.com/themohesh/wow-backend.git
 cd job-match-backend
 ```
 
